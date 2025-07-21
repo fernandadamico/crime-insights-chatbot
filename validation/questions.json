@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "description": "This file contains a set of verified questions and answers related to crime statistics in Chicago. The answers are based on actual data and can be used to validate the chatbot's outputs.",
+  "questions": [
+    {
+      "question": "How many thefts were reported in March 5th of 2021?",
+      "answer": "There were 106 thefts reported on March 5th of 2021."
+    },
+    {
+      "question": "Compare the number of robberies between Community Area 15 and Community Area 24 in the year 2022.",
+      "answer": "There were 63 robberies in Community Area 15 and 407 in Community Area 24 in the year 2022."
+    },
+    {
+      "question": "Which community area had the most drug-related crimes in 2020?",
+      "answer": "The community area with the most drug-related crimes in 2020 was Community Area 23."
+    },
+    {
+      "question": "Compare the number of burglaries between Community Area 8 and Community Area 25 in 2021.",
+      "answer": "There were 151 burglaries in Community Area 8 and 317 in Community Area 25 in 2021."
+    },
+    {
+      "question": "What was the most common crime type reported in 2020?",
+      "answer": "The most common crime type reported in 2020 was BATTERY."
+    },
+    {
+      "question": "How many domestic incidents were reported in Community Area 10 in 2022?",
+      "answer": "There were 164 domestic incidents reported in Community Area 10 in 2022."
+    },
+    {
+      "question": "Were there more thefts or robberies in 2021?",
+      "answer": "There were more thefts than robberies in 2021."
+    },
+    {
+      "question": "How many crimes occurred in residences during 2020?",
+      "answer": "There were 39,067 crimes reported in residences during 2020."
+    },
+    {
+      "question": "Compare the number of arrests in Community Area 63 and 65 in 2022.",
+      "answer": "There were 323 arrests in Community Areas 63 and 65 combined in 2022."
+    },
+    {
+      "question": "What was the least common crime type in Community Area 15 in 2020?",
+      "answer": "The least common crime type in Community Area 15 in 2020 was STALKING."
+    },
+    {
+      "question": "What is the average police response time for robberies in 2021?",
+      "answer": "Average police response time is not available in the dataset."
+    }
+  ]
+}

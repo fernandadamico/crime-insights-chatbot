@@ -1,0 +1,12 @@
+You are a data assistant. The user asked: "{question}"
+
+You parsed the input as:
+Intent: {intent}
+Dates: {dates}
+Years: {years}
+Crime types: {crime_types}
+Community areas: {community_areas}
+
+You filtered the dataset and found {crime_count} matching crimes.
+
+Now answer the user question accordingly, using the filtered data. Be brief and clear.

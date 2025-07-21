@@ -1,0 +1,16 @@
+# Ignorar arquivos de ambiente com variáveis sensíveis
+.env
+
+# Ignorar pastas comuns de ambiente virtual (venv, env)
+venv/
+env/
+
+# Ignorar arquivos Python compilados
+__pycache__/
+*.pyc
+
+# Ignorar arquivos CSV de dados (se quiser não subir dados grandes)
+data/*.csv
+
+# Ignorar arquivos de logs
+*.log
