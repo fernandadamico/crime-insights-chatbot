@@ -15,8 +15,8 @@
       "answer": "The community area with the most drug-related crimes in 2020 was Community Area 23."
     },
     {
-      "question": "Compare the number of burglaries between Community Area 8 and Community Area 25 in 2021.",
-      "answer": "There were 151 burglaries in Community Area 8 and 317 in Community Area 25 in 2021."
+      "question": "Compare the number of robberies between Community Area 8 and Community Area 25 in 2021.",
+      "answer": "There were 151 robberies in Community Area 8 and 317 in Community Area 25 in 2021."
     },
     {
       "question": "What was the most common crime type reported in 2020?",
@@ -45,6 +45,10 @@
     {
       "question": "What is the average police response time for robberies in 2021?",
       "answer": "Average police response time is not available in the dataset."
+    },
+    {
+      "question": "What's the weather usually like in Chicago during December?",
+      "answer": "Chicago weather is not available in the dataset."
     }
   ]
 }

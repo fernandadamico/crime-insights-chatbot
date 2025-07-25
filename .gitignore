@@ -3,7 +3,6 @@
 
 # Ignorar pastas comuns de ambiente virtual (venv, env)
 venv/
-env/
 
 # Ignorar arquivos Python compilados
 __pycache__/
@@ -11,6 +10,9 @@ __pycache__/
 
 # Ignorar arquivos CSV de dados (se quiser não subir dados grandes)
 data/*.csv
+data/*.db
 
 # Ignorar arquivos de logs
 *.log
+
+*.vscode/
